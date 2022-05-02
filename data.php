@@ -3,7 +3,6 @@
 
 $servername = '172.17.0.2';
 $username = 'root';
-$password = 'password';
 $database = 'prod_schema';
 $table = 'products';
 
