@@ -7,7 +7,7 @@ $database = 'prod_schema';
 $table = 'products';
 
 // Create connection
-$conn = mysqli_connect($servername, $username, $password, $database);
+$conn = mysqli_connect($servername, $username, $database);
 
 // Check connection
 if (!$conn) {
